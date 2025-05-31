@@ -52839,511 +52839,2010 @@
     }
   ],
   "categories": [
-    { "id": 0, "name": "Thùng 24 Chai Sữa Nước Abbott Ensure 237ml", "icon": null },
-    { "id": 316, "name": "Sách tiếng Việt", "icon": null },
-    { "id": 369, "name": "Sách tài chính, kế toán", "icon": null },
-    { "id": 664, "name": "Truyện trinh thám", "icon": null },
-    { "id": 839, "name": "Sách văn học", "icon": null },
-    { "id": 842, "name": "Tác phẩm kinh điển", "icon": null },
-    { "id": 844, "name": "Tiểu Thuyết", "icon": null },
-    { "id": 845, "name": "Truyện ngắn - Tản văn - Tạp Văn", "icon": null },
-    { "id": 846, "name": "Sách kinh tế", "icon": null },
-    { "id": 861, "name": "Sách Tôn Giáo - Tâm Linh", "icon": null },
-    { "id": 870, "name": "Sách kỹ năng sống", "icon": null },
-    { "id": 871, "name": "Sách tư duy - Kỹ năng sống", "icon": null },
-    { "id": 873, "name": "Sách Kiến Thức Tổng Hợp", "icon": null },
-    { "id": 886, "name": "Lĩnh vực khác", "icon": null },
-    {
-      "id": 915,
-      "name": "Thời trang nam",
-      "icon": "https://salt.tikicdn.com/ts/category/00/5d/97/384ca1a678c4ee93a0886a204f47645d.png"
-    },
-    { "id": 917, "name": "Áo thun nam", "icon": null },
-    {
-      "id": 931,
-      "name": "Thời trang nữ",
-      "icon": "https://salt.tikicdn.com/ts/category/55/5b/80/48cbaafe144c25d5065786ecace86d38.png"
-    },
-    { "id": 933, "name": "Áo thun nữ", "icon": null },
-    { "id": 958, "name": "Túi đeo chéo nam", "icon": null },
-    { "id": 959, "name": "Ví nam", "icon": null },
-    { "id": 968, "name": "Thắt lưng, dây nịt nam", "icon": null },
-    { "id": 975, "name": "Phụ kiện thời trang nữ", "icon": null },
-    {
-      "id": 976,
-      "name": "Túi thời trang nữ",
-      "icon": "https://salt.tikicdn.com/ts/category/31/a7/94/6524d2ecbec216816d91b6066452e3f2.png"
-    },
-    { "id": 978, "name": "Kính mát", "icon": null },
-    { "id": 984, "name": "Dép - Guốc nữ", "icon": null },
-    { "id": 1508, "name": "Đồ ngủ - Đồ mặc nhà nữ", "icon": null },
-    { "id": 1509, "name": "Áo ngực", "icon": null },
-    { "id": 1510, "name": "Quần lót nữ", "icon": null },
-    {
-      "id": 1520,
-      "name": "Làm Đẹp - Sức Khỏe",
-      "icon": "https://salt.tikicdn.com/ts/category/73/0e/89/d7ca146de7198a6808580239e381a0c8.png"
-    },
-    { "id": 1582, "name": "Chăm sóc da mặt", "icon": null },
-    { "id": 1583, "name": "Sữa rửa mặt", "icon": null },
-    { "id": 1591, "name": "Chăm sóc tóc và da đầu", "icon": null },
-    { "id": 1613, "name": "Dầu Gội", "icon": null },
-    { "id": 1630, "name": "Bao cao su", "icon": null },
-    { "id": 1685, "name": "Áo thun nam ngắn tay không cổ", "icon": null },
-    {
-      "id": 1686,
-      "name": "Giày - Dép nam",
-      "icon": "https://salt.tikicdn.com/ts/category/d6/7f/6c/5d53b60efb9448b6a1609c825c29fa40.png"
-    },
-    { "id": 1698, "name": "Áo nữ", "icon": null },
-    { "id": 1702, "name": "Áo liền quần - Bộ trang phục", "icon": null },
-    {
-      "id": 1703,
-      "name": "Giày - Dép nữ",
-      "icon": "https://salt.tikicdn.com/ts/category/cf/ed/e1/96216aae6dd0e2beeb5e91d301649d28.png"
-    },
-    { "id": 1778, "name": "Đồng hồ nam", "icon": null },
-    {
-      "id": 1789,
-      "name": "NGON",
-      "icon": "https://salt.tikicdn.com/ts/category/1e/8c/08/d8b02f8a0d958c74539316e8cd437cbd.png"
-    },
-    { "id": 1794, "name": "Máy tính bảng", "icon": null },
-    { "id": 1795, "name": "Điện thoại Smartphone", "icon": null },
-    {
-      "id": 1801,
-      "name": "Máy Ảnh - Máy Quay Phim",
-      "icon": "https://salt.tikicdn.com/ts/category/2d/7c/45/e4976f3fa4061ab310c11d2a1b759e5b.png"
-    },
-    { "id": 1804, "name": "Tai Nghe Có Dây", "icon": null },
-    { "id": 1811, "name": "Tai Nghe Bluetooth", "icon": null },
-    {
-      "id": 1815,
-      "name": "Thiết Bị Số - Phụ Kiện Số",
-      "icon": "https://salt.tikicdn.com/ts/category/75/34/29/d900f845e51e95a2c41b5b035468f959.png"
-    },
-    { "id": 1818, "name": "Phụ Kiện Máy Ảnh, Máy Quay", "icon": null },
-    { "id": 1820, "name": "Thẻ Nhớ Điện Thoại", "icon": null },
-    { "id": 1822, "name": "Bao Da - Ốp Lưng", "icon": null },
-    { "id": 1823, "name": "Dây Sạc - Dây Cáp", "icon": null },
-    { "id": 1824, "name": "Miếng Dán Màn Hình", "icon": null },
-    { "id": 1827, "name": "Ổ Cứng Di Động", "icon": null },
-    { "id": 1828, "name": "USB", "icon": null },
-    { "id": 1829, "name": "Chuột Văn Phòng", "icon": null },
-    { "id": 1838, "name": "Chuột Văn Phòng Không Dây", "icon": null },
-    { "id": 1839, "name": "Thẻ Nhớ Máy Ảnh", "icon": null },
-    { "id": 1840, "name": "Balo - Túi Đựng - Bao Da", "icon": null },
-    {
-      "id": 1846,
-      "name": "Laptop - Máy Vi Tính - Linh kiện",
-      "icon": "https://salt.tikicdn.com/ts/category/92/b5/c0/3ffdb7dbfafd5f8330783e1df20747f6.png"
-    },
-    {
-      "id": 1882,
-      "name": "Điện Gia Dụng",
-      "icon": "https://salt.tikicdn.com/ts/category/61/d4/ea/e6ea3ffc1fcde3b6224d2bb691ea16a2.png"
-    },
-    {
-      "id": 1883,
-      "name": "Nhà Cửa - Đời Sống",
-      "icon": "https://salt.tikicdn.com/ts/category/f6/22/46/7e2185d2cf1bca72d5aeac385a865b2b.png"
-    },
-    { "id": 1884, "name": "Đồ dùng nhà bếp", "icon": null },
-    { "id": 1885, "name": "Bếp các loại", "icon": null },
-    { "id": 1887, "name": "Bếp điện từ", "icon": null },
-    { "id": 1888, "name": "Bếp gas", "icon": null },
-    { "id": 1889, "name": "Bếp gas dương", "icon": null },
-    { "id": 1892, "name": "Nồi điện các loại", "icon": null },
-    { "id": 1893, "name": "Nồi cơm điện", "icon": null },
-    { "id": 1895, "name": "Nồi lẩu điện", "icon": null },
-    { "id": 1919, "name": "Nồi cơm nắp gài", "icon": null },
-    { "id": 1922, "name": "Máy Tính Khoa Học", "icon": null },
-    { "id": 1936, "name": "Bình giữ nhiệt", "icon": null },
-    { "id": 1946, "name": "Thiết bị gia đình", "icon": null },
-    { "id": 1951, "name": "Dụng cụ nhà bếp", "icon": null },
-    { "id": 1954, "name": "Đồ dùng phòng ăn", "icon": null },
-    { "id": 1966, "name": "Đồ dùng và thiết bị nhà tắm", "icon": null },
-    {
-      "id": 1975,
-      "name": "Thể Thao - Dã Ngoại",
-      "icon": "https://salt.tikicdn.com/ts/category/0b/5e/3d/00941c9eb338ea62a47d5b1e042843d8.png"
-    },
-    { "id": 1984, "name": "Chảo các loại", "icon": null },
-    { "id": 1993, "name": "Bàn ủi, bàn là", "icon": null },
-    { "id": 1994, "name": "Bàn ủi hơi nước", "icon": null },
-    { "id": 2009, "name": "Máy hút bụi", "icon": null },
-    { "id": 2015, "name": "Đèn & thiết bị chiếu sáng", "icon": null },
-    { "id": 2016, "name": "Đèn bàn", "icon": null },
-    { "id": 2023, "name": "Lò nướng điện", "icon": null },
-    { "id": 2024, "name": "Máy xay, máy ép", "icon": null },
-    { "id": 2039, "name": "Hút bụi cầm tay", "icon": null },
-    { "id": 2040, "name": "Lò nướng thùng", "icon": null },
-    { "id": 2044, "name": "Vỉ nướng điện", "icon": null },
-    { "id": 2105, "name": "Máy xay sinh tố", "icon": null },
-    { "id": 2110, "name": "Máy xay thịt", "icon": null },
-    { "id": 2136, "name": "Nồi các loại", "icon": null },
-    { "id": 2146, "name": "Ổ Cứng SSD", "icon": null },
-    { "id": 2157, "name": "Bơi lội", "icon": null },
-    { "id": 2234, "name": "Chổi, cây lau nhà", "icon": null },
-    { "id": 2307, "name": "Máy Massage & Thiết bị chăm sóc sức khỏe", "icon": null },
-    { "id": 2308, "name": "Máy In - Photocopy", "icon": null },
-    { "id": 2328, "name": "Tủ lạnh", "icon": null },
-    { "id": 2340, "name": "Máy massage toàn thân", "icon": null },
-    { "id": 2452, "name": "Máy Tính Điện Tử", "icon": null },
-    { "id": 2511, "name": "Dao các loại", "icon": null },
-    {
-      "id": 2549,
-      "name": "Đồ Chơi - Mẹ &amp; Bé",
-      "icon": "https://salt.tikicdn.com/ts/category/13/64/43/226301adcc7660ffcf44a61bb6df99b7.png"
-    },
-    { "id": 2551, "name": "Tã, Bỉm", "icon": null },
-    { "id": 2552, "name": "Tã dán", "icon": null },
-    { "id": 2553, "name": "Tã quần", "icon": null },
-    { "id": 2600, "name": "Sữa bột cho bé", "icon": null },
-    { "id": 2601, "name": "Sữa cho bé dưới 24 tháng ", "icon": null },
-    { "id": 2602, "name": "Sữa cho bé trên 24 tháng", "icon": null },
-    { "id": 2662, "name": "Pin - Sạc Máy Ảnh, Máy Quay", "icon": null },
-    { "id": 2663, "name": "Thiết Bị Mạng", "icon": null },
-    { "id": 2665, "name": "Màn Hình Máy Tính", "icon": null },
-    { "id": 2678, "name": "Chân Máy Ảnh, Monopod, Tripod", "icon": null },
-    { "id": 2681, "name": "Thẻ Nhớ SD", "icon": null },
-    { "id": 3211, "name": "Xe đạp trẻ em", "icon": null },
-    { "id": 3426, "name": "Sản phẩm trị mụn", "icon": null },
-    { "id": 3803, "name": "Adapter - Củ Sạc", "icon": null },
-    { "id": 4077, "name": "Camera Giám Sát", "icon": null },
-    {
-      "id": 4221,
-      "name": "Điện Tử - Điện Lạnh",
-      "icon": "https://salt.tikicdn.com/ts/category/c8/82/d4/64c561c4ced585c74b9c292208e4995a.png"
-    },
-    { "id": 4239, "name": "Smart Tivi - Android Tivi", "icon": null },
-    { "id": 4293, "name": "Router Wifi", "icon": null },
-    { "id": 4294, "name": "USB Wifi", "icon": null },
-    { "id": 4343, "name": "Bộ Kích Sóng Wifi", "icon": null },
-    {
-      "id": 4384,
-      "name": "Bách Hóa Online",
-      "icon": "https://salt.tikicdn.com/ts/category/40/0f/9b/62a58fd19f540c70fce804e2a9bb5b2d.png"
-    },
-    { "id": 4395, "name": "Nước rửa chén", "icon": null },
-    { "id": 4399, "name": "Vệ sinh nhà bếp", "icon": null },
-    { "id": 4400, "name": "Vệ sinh nhà tắm", "icon": null },
-    { "id": 4423, "name": "Cà phê", "icon": null },
-    { "id": 4425, "name": "Đồ uống không gas khác", "icon": null },
-    { "id": 4426, "name": "Đồ uống có gas", "icon": null },
-    { "id": 4428, "name": "Tai Nghe Có Dây Nhét Tai", "icon": null },
-    { "id": 4532, "name": "Mực In và Toner", "icon": null },
-    { "id": 4554, "name": "Đồ lót nữ", "icon": null },
-    { "id": 4555, "name": "Đồ mặc nhà nam - Bộ ngắn", "icon": null },
-    { "id": 4556, "name": "Quần lót nam", "icon": null },
-    { "id": 4558, "name": "Túi đeo chéo, túi đeo vai nữ", "icon": null },
-    { "id": 4559, "name": "Túi tote nữ", "icon": null },
-    { "id": 4560, "name": "Túi xách tay nữ", "icon": null },
-    { "id": 4561, "name": "Ví nữ", "icon": null },
-    { "id": 4594, "name": "Đồ chơi vận động", "icon": null },
-    { "id": 4642, "name": "Phụ Kiện Thiết Bị Mạng", "icon": null },
-    { "id": 5006, "name": "Dây Cáp Sạc iPhone, iPad", "icon": null },
-    { "id": 5015, "name": "Tivi", "icon": null },
-    { "id": 5121, "name": "Camera IP", "icon": null },
-    { "id": 5246, "name": "Sách tài chính, tiền tệ", "icon": null },
-    { "id": 5250, "name": "Đồ chơi", "icon": null },
-    { "id": 5333, "name": "Áo thun nam ngắn tay có cổ", "icon": null },
-    { "id": 5339, "name": "Dây thắt lưng - Dây nịt", "icon": null },
-    { "id": 5342, "name": "Dép nam", "icon": null },
-    { "id": 5343, "name": "Tất, vớ nam", "icon": null },
-    { "id": 5402, "name": "Khăn choàng - Khăn tay nữ", "icon": null },
-    { "id": 5403, "name": "Khăn - Tất - Vớ nữ", "icon": null },
-    { "id": 5410, "name": "Kính mát nam", "icon": null },
-    { "id": 5451, "name": "Chăm sóc thú cưng", "icon": null },
-    { "id": 5461, "name": "Thức ăn cho mèo", "icon": null },
-    { "id": 5478, "name": "Ngũ cốc, bột", "icon": null },
-    { "id": 5483, "name": "Bia và Nước hoa quả lên men", "icon": null },
-    { "id": 5531, "name": "Tai Nghe Bluetooth Nhét Tai", "icon": null },
-    { "id": 5873, "name": "Sản phẩm thiên nhiên & Khác", "icon": null },
-    {
-      "id": 6000,
-      "name": "Balo và Vali",
-      "icon": "https://salt.tikicdn.com/ts/category/3e/c0/30/1110651bd36a3e0d9b962cf135c818ee.png"
-    },
-    { "id": 6052, "name": "Phụ tùng ô tô", "icon": null },
-    { "id": 6061, "name": "Phụ kiện xe máy", "icon": null },
-    { "id": 6255, "name": "Phần Mềm Máy Tính", "icon": null },
-    { "id": 6280, "name": "Tivi 4K", "icon": null },
-    { "id": 6521, "name": "Balo laptop", "icon": null },
-    { "id": 6525, "name": "Túi chống sốc", "icon": null },
-    { "id": 6526, "name": "Vali, phụ kiện vali ", "icon": null },
-    { "id": 6556, "name": "Máy In Laser", "icon": null },
-    { "id": 6750, "name": "Truyện dài", "icon": null },
-    { "id": 6963, "name": "Bình nước, bình giữ nhiệt & Phụ kiện", "icon": null },
-    { "id": 7082, "name": "Phụ kiện Tivi", "icon": null },
-    { "id": 7083, "name": "Điều khiển từ xa Tivi", "icon": null },
-    { "id": 7084, "name": "Giá treo Tivi", "icon": null },
-    { "id": 7566, "name": "Túi trống", "icon": null },
-    { "id": 7741, "name": "Văn phòng phẩm", "icon": null },
-    { "id": 8060, "name": "Thiết Bị Lưu Trữ", "icon": null },
-    { "id": 8061, "name": "Điện thoại bàn", "icon": null },
-    { "id": 8074, "name": "Phụ kiện điện lạnh", "icon": null },
-    { "id": 8123, "name": "Nồi chiên", "icon": null },
-    { "id": 8142, "name": "Hỗ trợ tình dục", "icon": null },
-    { "id": 8214, "name": "Phụ Kiện Điện Thoại và Máy Tính Bảng", "icon": null },
-    { "id": 8215, "name": "Thiết Bị Âm Thanh và Phụ Kiện", "icon": null },
-    { "id": 8222, "name": "Dầu gội, dầu xả", "icon": null },
-    { "id": 8223, "name": "Bộ dầu gội, xả", "icon": null },
-    { "id": 8273, "name": "Sữa nước", "icon": null },
-    { "id": 8313, "name": "Đồ dùng phòng ngủ", "icon": null },
-    { "id": 8314, "name": "Phụ kiện phòng ngủ", "icon": null },
-    { "id": 8319, "name": "Dao, kéo và phụ kiện", "icon": null },
-    {
-      "id": 8322,
-      "name": "Nhà Sách Tiki",
-      "icon": "https://salt.tikicdn.com/ts/category/ed/20/60/afa9b3b474bf7ad70f10dd6443211d5f.png"
-    },
-    { "id": 8338, "name": "Phụ kiện giày nam", "icon": null },
-    { "id": 8339, "name": "Dinh dưỡng cho bé", "icon": null },
-    { "id": 8342, "name": "Găng tay nam", "icon": null },
-    { "id": 8345, "name": "Đồ lót tạo dáng", "icon": null },
-    { "id": 8346, "name": "Đồ ngủ nữ", "icon": null },
-    { "id": 8352, "name": "Phụ kiện túi", "icon": null },
-    { "id": 8357, "name": "Phụ kiện giày", "icon": null },
-    { "id": 8361, "name": "Phụ kiện tóc nữ", "icon": null },
-    { "id": 8368, "name": "Găng tay - Bao tay nữ", "icon": null },
-    { "id": 8370, "name": "Mắt kính", "icon": null },
-    {
-      "id": 8371,
-      "name": "Đồng hồ và Trang sức",
-      "icon": "https://salt.tikicdn.com/ts/category/8b/d4/a8/5924758b5c36f3b1c43b6843f52d6dd2.png"
-    },
-    { "id": 8374, "name": "Trang sức", "icon": null },
-    { "id": 8387, "name": "Túi du lịch và phụ kiện", "icon": null },
-    { "id": 8390, "name": "Phụ kiện vali", "icon": null },
-    { "id": 8400, "name": "Tai Nghe True Wireless", "icon": null },
-    { "id": 8411, "name": "Các môn thể thao chơi vợt", "icon": null },
-    { "id": 8413, "name": "Thể thao dưới nước", "icon": null },
-    { "id": 8428, "name": "Đồ dùng dã ngoại", "icon": null },
-    { "id": 8438, "name": "Cầu lông", "icon": null },
-    { "id": 8513, "name": "Đồng hồ thể thao nam", "icon": null },
-    {
-      "id": 8594,
-      "name": "Ô Tô - Xe Máy - Xe Đạp",
-      "icon": "https://salt.tikicdn.com/ts/category/69/f5/36/c6cd9e2849854630ed74ff1678db8f19.png"
-    },
-    { "id": 8597, "name": "Xe máy", "icon": null },
-    { "id": 8602, "name": "Tinh dầu", "icon": null },
-    { "id": 10238, "name": "Bộ sản phẩm vệ sinh nhà cửa", "icon": null },
-    { "id": 10378, "name": "Áo thun nam ba lỗ", "icon": null },
-    { "id": 10384, "name": "Dép nam quai ngang", "icon": null },
-    { "id": 10414, "name": "Miếng lót sơ sinh", "icon": null },
-    { "id": 10418, "name": "Dinh dưỡng cho người lớn", "icon": null },
-    {
-      "id": 11312,
-      "name": "Voucher - Dịch vụ",
-      "icon": "https://salt.tikicdn.com/ts/category/0a/c9/7b/8e466bdf6d4a5f5e14665ce56e58631d.png"
-    },
-    { "id": 11332, "name": "Khóa học", "icon": null },
-    { "id": 11334, "name": "Dịch vụ khác", "icon": null },
-    { "id": 11375, "name": "Đồng hồ trẻ em", "icon": null },
-    { "id": 11605, "name": "Tẩy trang", "icon": null },
-    { "id": 11843, "name": "Phụ kiện kính", "icon": null },
-    { "id": 11878, "name": "Xe tay ga", "icon": null },
-    { "id": 11904, "name": "Phụ kiện - Đồ nghề xe đạp", "icon": null },
-    { "id": 11906, "name": "Mũ bảo hiểm", "icon": null },
-    { "id": 11908, "name": "Mũ bảo hiểm xe máy", "icon": null },
-    { "id": 12218, "name": "Băng cổ tay, băng trán thể thao", "icon": null },
-    { "id": 12884, "name": "Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi", "icon": null },
-    { "id": 12908, "name": "Adapter Sạc - Củ Sạc Thường", "icon": null },
-    { "id": 13150, "name": "Thiết Bị Phát Sóng Wifi", "icon": null },
-    { "id": 13224, "name": "Phụ kiện máy hút bụi", "icon": null },
-    { "id": 13384, "name": "Khóa học ngoại ngữ", "icon": null },
-    { "id": 13744, "name": "Phiếu quà tặng", "icon": null },
-    { "id": 15076, "name": "Đồ uống không gas", "icon": null },
-    { "id": 15078, "name": "Chăm sóc nhà cửa", "icon": null },
-    { "id": 15318, "name": "Vòng tay", "icon": null },
-    { "id": 15320, "name": "Bông tai", "icon": null },
-    { "id": 15936, "name": "Bộ trang sức", "icon": null },
-    {
-      "id": 17166,
-      "name": "Cross Border - Hàng Quốc Tế",
-      "icon": "https://salt.tikicdn.com/ts/category/3c/e4/99/eeee1801c838468d94af9997ec2bbe42.png"
-    },
-    { "id": 17170, "name": "Kem và sữa dưỡng da", "icon": null },
-    { "id": 20182, "name": "Bộ Chuyển Đổi Không Dây", "icon": null },
-    { "id": 20260, "name": "Dụng Cụ Vệ Sinh Máy Ảnh", "icon": null },
-    { "id": 20824, "name": "Điện gia dụng", "icon": null },
-    { "id": 20862, "name": "Thiết bị gia đình", "icon": null },
-    { "id": 20886, "name": "Quạt điện", "icon": null },
-    { "id": 21074, "name": "Laptop & Máy Vi Tính", "icon": null },
-    { "id": 21132, "name": "Thiết bị mạng", "icon": null },
-    { "id": 21268, "name": "Nhà Cửa - Đời Sống", "icon": null },
-    { "id": 21272, "name": "Đèn & thiết bị chiếu sáng", "icon": null },
-    { "id": 21280, "name": "Ngoài trời & sân vườn", "icon": null },
-    { "id": 21298, "name": "Sách, Văn phòng phẩm & Quà lưu niệm", "icon": null },
-    { "id": 21300, "name": "English Books", "icon": null },
-    { "id": 21306, "name": "Business & Economics", "icon": null },
-    { "id": 21316, "name": "Fiction - Literature", "icon": null },
-    { "id": 21346, "name": "Ô tô, xe máy, xe đạp", "icon": null },
-    { "id": 21350, "name": "Phụ kiện xe máy", "icon": null },
-    { "id": 21382, "name": "Thiết Bị Số - Phụ Kiện Số", "icon": null },
-    { "id": 21384, "name": "Bao da - Ốp lưng", "icon": null },
-    { "id": 21388, "name": "Adapter - Củ sạc", "icon": null },
-    { "id": 21422, "name": "Thiết bị thông minh", "icon": null },
-    { "id": 21432, "name": "Thiết bị nhà thông minh", "icon": null },
-    { "id": 21496, "name": "Tivi & Thiết Bị Nghe Nhìn", "icon": null },
-    { "id": 21514, "name": "Tivi box, Smart box", "icon": null },
-    { "id": 22998, "name": "Đồ uống - Pha chế dạng bột", "icon": null },
-    { "id": 23126, "name": "Xửng hấp", "icon": null },
-    { "id": 23392, "name": "Chiếu", "icon": null },
-    { "id": 23808, "name": "Bếp điện từ đơn", "icon": null },
-    { "id": 23832, "name": "Dụng cụ lau nhà khác", "icon": null },
-    { "id": 23902, "name": "Phụ kiện cầu lông", "icon": null },
-    { "id": 24024, "name": "Đồ Uống Không Cồn", "icon": null },
-    { "id": 24062, "name": "Máy xay sinh tố gia đình", "icon": null },
-    { "id": 24128, "name": "Dụng cụ - thiết bị tập thể thao", "icon": null },
-    { "id": 24152, "name": "Dây nhảy", "icon": null },
-    { "id": 24164, "name": "Dây đàn hồi tập gym", "icon": null },
-    { "id": 24166, "name": "Dụng cụ tập cơ tay", "icon": null },
-    { "id": 24280, "name": "Túi ngủ", "icon": null },
-    { "id": 24306, "name": "Phụ kiện thể thao", "icon": null },
-    { "id": 24310, "name": "Đai chạy bộ", "icon": null },
-    { "id": 24316, "name": "Găng tay tập gym", "icon": null },
-    { "id": 24318, "name": "Phụ kiện thể thao khác", "icon": null },
-    { "id": 24320, "name": "Kính bơi", "icon": null },
-    { "id": 24344, "name": "Dụng cụ, thiết bị sửa ô tô", "icon": null },
-    { "id": 24352, "name": "Gạt mưa ô tô", "icon": null },
-    { "id": 24358, "name": "Nước hoa, sáp thơm ô tô", "icon": null },
-    { "id": 24362, "name": "Chăm sóc ô tô", "icon": null },
-    { "id": 24832, "name": "Phụ kiện - Chăm sóc xe", "icon": null },
-    { "id": 25000, "name": "Thiết bị nhà cửa khác", "icon": null },
-    { "id": 25046, "name": "Maternal & Parenting", "icon": null },
-    { "id": 26568, "name": "Âm thanh & Phụ kiện Tivi", "icon": null },
-    { "id": 26642, "name": "Anten Tivi", "icon": null },
-    {
-      "id": 27498,
-      "name": "Phụ kiện thời trang",
-      "icon": "https://salt.tikicdn.com/ts/category/ca/53/64/49c6189a0e1c1bf7cb91b01ff6d3fe43.png"
-    },
-    { "id": 27542, "name": "Phụ kiện đồng hồ", "icon": null },
-    { "id": 27544, "name": "Đồng hồ bé trai", "icon": null },
-    { "id": 27548, "name": "Đồ lót nam", "icon": null },
-    { "id": 27550, "name": "Phụ kiện thời trang nam", "icon": null },
-    { "id": 27562, "name": "Quần nam", "icon": null },
-    { "id": 27570, "name": "Đồ ngủ, đồ mặc nhà nam", "icon": null },
-    { "id": 27572, "name": "Giày thể thao nam", "icon": null },
-    { "id": 27604, "name": "Giày thể thao nữ", "icon": null },
-    { "id": 27608, "name": "Balo", "icon": null },
-    { "id": 27612, "name": "Balo, cặp, túi chống sốc laptop", "icon": null },
-    {
-      "id": 27616,
-      "name": "Túi thời trang nam",
-      "icon": "https://salt.tikicdn.com/ts/category/9b/31/af/669e6a133118e5439d6c175e27c1f963.png"
-    },
-    { "id": 28448, "name": "Thẻ Nhớ và Bộ Nhớ Mở Rộng", "icon": null },
-    { "id": 28460, "name": "Bộ Adapter Sạc Kèm Cáp Sạc", "icon": null },
-    { "id": 28484, "name": "Miếng Dán Màn Hình Điện Thoại", "icon": null },
-    { "id": 28574, "name": "Bao Da - Ốp Lưng Điện Thoại iPhone", "icon": null },
-    { "id": 28670, "name": "Phụ kiện máy tính và Laptop", "icon": null },
-    { "id": 28690, "name": "Phụ Kiện Phím Chuột Văn Phòng", "icon": null },
-    { "id": 28766, "name": "Túi Hút Ẩm Cho Máy Ảnh, Máy Quay", "icon": null },
-    { "id": 28780, "name": "Dây Đeo Máy Ảnh, Máy Quay, Ống Nhòm", "icon": null },
-    { "id": 28834, "name": "Camera Hành Trình - Action Camera và Phụ Kiện", "icon": null },
-    { "id": 28836, "name": "Phụ Kiện Camera Hành Trình", "icon": null },
-    { "id": 28840, "name": "Ổ Cứng SSD Di Động", "icon": null },
-    { "id": 28842, "name": "Ổ Cứng HDD Di Động", "icon": null },
-    { "id": 28844, "name": "Ổ Cứng Gắn Trong", "icon": null },
-    { "id": 28856, "name": "Máy đọc sách", "icon": null },
-    { "id": 28886, "name": "Phụ kiện, linh kiện máy lạnh", "icon": null },
-    { "id": 28892, "name": "Phụ kiện, linh kiện điện lạnh khác", "icon": null },
-    { "id": 28932, "name": "Màn Hình Phổ Thông", "icon": null },
-    { "id": 28944, "name": "Drums và Toner Cho Máy In Laser", "icon": null },
-    { "id": 30374, "name": "Thiết Bị Âm Thanh", "icon": null },
-    { "id": 37598, "name": "Phiếu mua xe máy", "icon": null },
-    {
-      "id": 44792,
-      "name": "Điện Thoại - Máy Tính Bảng",
-      "icon": "https://salt.tikicdn.com/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png"
-    },
-    { "id": 44824, "name": "Trái Cây", "icon": null },
-    { "id": 44826, "name": "Trái Cây Nội Địa", "icon": null },
-    { "id": 44828, "name": "Trái Cây Nhập Khẩu", "icon": null },
-    { "id": 45472, "name": "Bạt trùm xe", "icon": null },
-    { "id": 45528, "name": "Đèn xe đạp", "icon": null },
-    { "id": 45530, "name": "Bơm xe đạp", "icon": null },
-    { "id": 45538, "name": "Phụ tùng - Phụ kiện xe đạp khác", "icon": null },
-    { "id": 45598, "name": "Keo - Băng keo chuyên dụng", "icon": null },
-    { "id": 45604, "name": "Nước rửa xe, rửa kính", "icon": null },
-    { "id": 46190, "name": "Mũ 1/2", "icon": null },
-    { "id": 49362, "name": "Áo liền quần", "icon": null },
-    { "id": 49364, "name": "Bộ trang phục", "icon": null },
-    { "id": 49412, "name": "Áo nâng ngực", "icon": null },
-    { "id": 49418, "name": "Áo không đệm - Bralette", "icon": null },
-    { "id": 49422, "name": "Quần ôm", "icon": null },
-    { "id": 49432, "name": "Đồ mặc nhà", "icon": null },
-    { "id": 49434, "name": "Đồ bộ ngắn", "icon": null },
-    { "id": 49438, "name": "Đồ bộ dài", "icon": null },
-    { "id": 49502, "name": "Quần thun nam", "icon": null },
-    { "id": 49504, "name": "Quần thun nam ngắn", "icon": null },
-    { "id": 49552, "name": "Giày thể thao cổ thấp", "icon": null },
-    { "id": 49578, "name": "Dép quai ngang", "icon": null },
-    { "id": 49580, "name": "Dép đi trong nhà", "icon": null },
-    { "id": 49590, "name": "Miếng lót giày", "icon": null },
-    { "id": 49592, "name": "Vệ sinh giày", "icon": null },
-    { "id": 49594, "name": "Phụ kiện cho giày", "icon": null },
-    { "id": 49596, "name": "Túi đeo chéo công sở", "icon": null },
-    { "id": 49598, "name": "Túi đeo chéo dạo phố", "icon": null },
-    { "id": 49602, "name": "Túi xách vừa và nhỏ", "icon": null },
-    { "id": 49604, "name": "Ví ngắn", "icon": null },
-    { "id": 49606, "name": "Ví dài", "icon": null },
-    { "id": 49608, "name": "Túi tote có khóa", "icon": null },
-    { "id": 49610, "name": "Túi tote không khóa", "icon": null },
-    { "id": 49618, "name": "Phụ kiện cài túi", "icon": null },
-    { "id": 49620, "name": "Giày thể thao nam cổ thấp", "icon": null },
-    { "id": 49644, "name": "Vệ sinh giày", "icon": null },
-    { "id": 49646, "name": "Miếng lót giày nam", "icon": null },
-    { "id": 49648, "name": "Phụ kiện cho giày nam", "icon": null },
-    { "id": 49652, "name": "Ví nam ngang", "icon": null },
-    { "id": 49654, "name": "Ví nam đứng", "icon": null },
-    { "id": 49656, "name": "Vali nhựa", "icon": null },
-    { "id": 49660, "name": "Vali trẻ em", "icon": null },
-    { "id": 49672, "name": "Vớ ngắn nữ", "icon": null },
-    { "id": 49676, "name": "Khẩu trang nữ", "icon": null },
-    { "id": 49678, "name": "Cột tóc", "icon": null },
-    { "id": 49680, "name": "Cài tóc", "icon": null },
-    { "id": 49682, "name": "Băng đô", "icon": null },
-    { "id": 49688, "name": "Phụ kiện tóc khác", "icon": null },
-    { "id": 49702, "name": "Găng tay và váy chống nắng", "icon": null },
-    { "id": 49716, "name": "Vớ cổ ngắn nam", "icon": null },
-    { "id": 49722, "name": "Dây đồng hồ", "icon": null },
-    { "id": 49728, "name": "Pin đồng hồ", "icon": null },
-    { "id": 52180, "name": "Phụ kiện thay thế", "icon": null },
-    { "id": 53046, "name": "Dụng cụ lau nhà", "icon": null },
-    { "id": 53052, "name": "Nồi và chảo", "icon": null },
-    { "id": 53530, "name": "Thức ăn thú cưng", "icon": null },
-    { "id": 53562, "name": "Sữa và các Sản phẩm từ sữa", "icon": null },
-    { "id": 53564, "name": "Sữa tiệt trùng (UHT)", "icon": null },
-    { "id": 53566, "name": "Sữa Chua Uống & Ăn", "icon": null },
-    { "id": 53572, "name": "Các Sản Phẩm Từ Sữa Khác", "icon": null },
-    { "id": 53582, "name": "Đồ uống có cồn", "icon": null },
-    { "id": 53584, "name": "Bia Nội Địa", "icon": null },
-    { "id": 53606, "name": "Nước Ngọt", "icon": null },
-    { "id": 53726, "name": "Bảo hiểm xe máy", "icon": null },
-    {
-      "id": 54042,
-      "name": "Sản phẩm Tài chính - Bảo hiểm",
-      "icon": "https://salt.tikicdn.com/ts/category/a0/49/f4/a75f6e5dc021b0005fb8923b9846abc2.jpg"
-    },
-    { "id": 54044, "name": "Bảo hiểm", "icon": null },
-    { "id": 54046, "name": "Bảo hiểm Sức khỏe", "icon": null },
-    { "id": 54276, "name": "Thịt, Trứng", "icon": null },
-    { "id": 54278, "name": "Thịt heo, lợn", "icon": null },
-    { "id": 54282, "name": "Thịt gà, vịt, chim", "icon": null },
-    { "id": 54284, "name": "Thịt đông lạnh", "icon": null },
-    { "id": 54290, "name": "Cá, thuỷ hải sản", "icon": null },
-    { "id": 54294, "name": "Cá, hải sản đông lạnh", "icon": null },
-    { "id": 54302, "name": "Rau củ quả", "icon": null },
-    { "id": 54304, "name": "Rau xanh, rau tươi", "icon": null },
-    { "id": 54306, "name": "Củ, quả, măng tươi", "icon": null },
-    { "id": 54308, "name": "Hành, tỏi, ớt, rau thơm", "icon": null },
-    { "id": 54344, "name": "Đông lạnh, mát", "icon": null },
-    { "id": 54348, "name": "Rau củ quả đông lạnh", "icon": null },
-    { "id": 54774, "name": "Bảo hiểm ô tô", "icon": null }
-  ]
+  {
+    "id": 316,
+    "name": "Sách tiếng Việt",
+    "icon": null
+  },
+  {
+    "id": 369,
+    "name": "Sách tài chính, kế toán",
+    "icon": null
+  },
+  {
+    "id": 664,
+    "name": "Truyện trinh thám",
+    "icon": null
+  },
+  {
+    "id": 839,
+    "name": "Sách văn học",
+    "icon": null
+  },
+  {
+    "id": 842,
+    "name": "Tác phẩm kinh điển",
+    "icon": null
+  },
+  {
+    "id": 844,
+    "name": "Tiểu Thuyết",
+    "icon": null
+  },
+  {
+    "id": 845,
+    "name": "Truyện ngắn - Tản văn - Tạp Văn",
+    "icon": null
+  },
+  {
+    "id": 846,
+    "name": "Sách kinh tế",
+    "icon": null
+  },
+  {
+    "id": 861,
+    "name": "Sách Tôn Giáo - Tâm Linh",
+    "icon": null
+  },
+  {
+    "id": 870,
+    "name": "Sách kỹ năng sống",
+    "icon": null
+  },
+  {
+    "id": 871,
+    "name": "Sách tư duy - Kỹ năng sống",
+    "icon": null
+  },
+  {
+    "id": 873,
+    "name": "Sách Kiến Thức Tổng Hợp",
+    "icon": null
+  },
+  {
+    "id": 886,
+    "name": "Lĩnh vực khác",
+    "icon": null
+  },
+  {
+    "id": 915,
+    "name": "Thời trang nam",
+    "icon": "https://salt.tikicdn.com/ts/category/00/5d/97/384ca1a678c4ee93a0886a204f47645d.png"
+  },
+  {
+    "id": 917,
+    "name": "Áo thun nam",
+    "icon": null
+  },
+  {
+    "id": 931,
+    "name": "Thời trang nữ",
+    "icon": "https://salt.tikicdn.com/ts/category/55/5b/80/48cbaafe144c25d5065786ecace86d38.png"
+  },
+  {
+    "id": 933,
+    "name": "Áo thun nữ",
+    "icon": null
+  },
+  {
+    "id": 958,
+    "name": "Túi đeo chéo nam",
+    "icon": null
+  },
+  {
+    "id": 959,
+    "name": "Ví nam",
+    "icon": null
+  },
+  {
+    "id": 968,
+    "name": "Thắt lưng, dây nịt nam",
+    "icon": null
+  },
+  {
+    "id": 975,
+    "name": "Phụ kiện thời trang nữ",
+    "icon": null
+  },
+  {
+    "id": 976,
+    "name": "Túi thời trang nữ",
+    "icon": "https://salt.tikicdn.com/ts/category/31/a7/94/6524d2ecbec216816d91b6066452e3f2.png"
+  },
+  {
+    "id": 978,
+    "name": "Kính mát",
+    "icon": null
+  },
+  {
+    "id": 984,
+    "name": "Dép - Guốc nữ",
+    "icon": null
+  },
+  {
+    "id": 1508,
+    "name": "Đồ ngủ - Đồ mặc nhà nữ",
+    "icon": null
+  },
+  {
+    "id": 1509,
+    "name": "Áo ngực",
+    "icon": null
+  },
+  {
+    "id": 1510,
+    "name": "Quần lót nữ",
+    "icon": null
+  },
+  {
+    "id": 1520,
+    "name": "Làm Đẹp - Sức Khỏe",
+    "icon": "https://salt.tikicdn.com/ts/category/73/0e/89/d7ca146de7198a6808580239e381a0c8.png"
+  },
+  {
+    "id": 1582,
+    "name": "Chăm sóc da mặt",
+    "icon": null
+  },
+  {
+    "id": 1583,
+    "name": "Sữa rửa mặt",
+    "icon": null
+  },
+  {
+    "id": 1591,
+    "name": "Chăm sóc tóc và da đầu",
+    "icon": null
+  },
+  {
+    "id": 1613,
+    "name": "Dầu Gội",
+    "icon": null
+  },
+  {
+    "id": 1630,
+    "name": "Bao cao su",
+    "icon": null
+  },
+  {
+    "id": 1685,
+    "name": "Áo thun nam ngắn tay không cổ",
+    "icon": null
+  },
+  {
+    "id": 1686,
+    "name": "Giày - Dép nam",
+    "icon": "https://salt.tikicdn.com/ts/category/d6/7f/6c/5d53b60efb9448b6a1609c825c29fa40.png"
+  },
+  {
+    "id": 1698,
+    "name": "Áo nữ",
+    "icon": null
+  },
+  {
+    "id": 1702,
+    "name": "Áo liền quần - Bộ trang phục",
+    "icon": null
+  },
+  {
+    "id": 1703,
+    "name": "Giày - Dép nữ",
+    "icon": "https://salt.tikicdn.com/ts/category/cf/ed/e1/96216aae6dd0e2beeb5e91d301649d28.png"
+  },
+  {
+    "id": 1778,
+    "name": "Đồng hồ nam",
+    "icon": null
+  },
+  {
+    "id": 1789,
+    "name": "NGON",
+    "icon": "https://salt.tikicdn.com/ts/category/1e/8c/08/d8b02f8a0d958c74539316e8cd437cbd.png"
+  },
+  {
+    "id": 1794,
+    "name": "Máy tính bảng",
+    "icon": null
+  },
+  {
+    "id": 1795,
+    "name": "Điện thoại Smartphone",
+    "icon": null
+  },
+  {
+    "id": 1801,
+    "name": "Máy Ảnh - Máy Quay Phim",
+    "icon": "https://salt.tikicdn.com/ts/category/2d/7c/45/e4976f3fa4061ab310c11d2a1b759e5b.png"
+  },
+  {
+    "id": 1804,
+    "name": "Tai Nghe Có Dây",
+    "icon": null
+  },
+  {
+    "id": 1811,
+    "name": "Tai Nghe Bluetooth",
+    "icon": null
+  },
+  {
+    "id": 1815,
+    "name": "Thiết Bị Số - Phụ Kiện Số",
+    "icon": "https://salt.tikicdn.com/ts/category/75/34/29/d900f845e51e95a2c41b5b035468f959.png"
+  },
+  {
+    "id": 1818,
+    "name": "Phụ Kiện Máy Ảnh, Máy Quay",
+    "icon": null
+  },
+  {
+    "id": 1820,
+    "name": "Thẻ Nhớ Điện Thoại",
+    "icon": null
+  },
+  {
+    "id": 1822,
+    "name": "Bao Da - Ốp Lưng",
+    "icon": null
+  },
+  {
+    "id": 1823,
+    "name": "Dây Sạc - Dây Cáp",
+    "icon": null
+  },
+  {
+    "id": 1824,
+    "name": "Miếng Dán Màn Hình",
+    "icon": null
+  },
+  {
+    "id": 1827,
+    "name": "Ổ Cứng Di Động",
+    "icon": null
+  },
+  {
+    "id": 1828,
+    "name": "USB",
+    "icon": null
+  },
+  {
+    "id": 1829,
+    "name": "Chuột Văn Phòng",
+    "icon": null
+  },
+  {
+    "id": 1838,
+    "name": "Chuột Văn Phòng Không Dây",
+    "icon": null
+  },
+  {
+    "id": 1839,
+    "name": "Thẻ Nhớ Máy Ảnh",
+    "icon": null
+  },
+  {
+    "id": 1840,
+    "name": "Balo - Túi Đựng - Bao Da",
+    "icon": null
+  },
+  {
+    "id": 1846,
+    "name": "Laptop - Máy Vi Tính - Linh kiện",
+    "icon": "https://salt.tikicdn.com/ts/category/92/b5/c0/3ffdb7dbfafd5f8330783e1df20747f6.png"
+  },
+  {
+    "id": 1882,
+    "name": "Điện Gia Dụng",
+    "icon": "https://salt.tikicdn.com/ts/category/61/d4/ea/e6ea3ffc1fcde3b6224d2bb691ea16a2.png"
+  },
+  {
+    "id": 1883,
+    "name": "Nhà Cửa - Đời Sống",
+    "icon": "https://salt.tikicdn.com/ts/category/f6/22/46/7e2185d2cf1bca72d5aeac385a865b2b.png"
+  },
+  {
+    "id": 1884,
+    "name": "Đồ dùng nhà bếp",
+    "icon": null
+  },
+  {
+    "id": 1885,
+    "name": "Bếp các loại",
+    "icon": null
+  },
+  {
+    "id": 1887,
+    "name": "Bếp điện từ",
+    "icon": null
+  },
+  {
+    "id": 1888,
+    "name": "Bếp gas",
+    "icon": null
+  },
+  {
+    "id": 1889,
+    "name": "Bếp gas dương",
+    "icon": null
+  },
+  {
+    "id": 1892,
+    "name": "Nồi điện các loại",
+    "icon": null
+  },
+  {
+    "id": 1893,
+    "name": "Nồi cơm điện",
+    "icon": null
+  },
+  {
+    "id": 1895,
+    "name": "Nồi lẩu điện",
+    "icon": null
+  },
+  {
+    "id": 1919,
+    "name": "Nồi cơm nắp gài",
+    "icon": null
+  },
+  {
+    "id": 1922,
+    "name": "Máy Tính Khoa Học",
+    "icon": null
+  },
+  {
+    "id": 1936,
+    "name": "Bình giữ nhiệt",
+    "icon": null
+  },
+  {
+    "id": 1946,
+    "name": "Thiết bị gia đình",
+    "icon": null
+  },
+  {
+    "id": 1951,
+    "name": "Dụng cụ nhà bếp",
+    "icon": null
+  },
+  {
+    "id": 1954,
+    "name": "Đồ dùng phòng ăn",
+    "icon": null
+  },
+  {
+    "id": 1966,
+    "name": "Đồ dùng và thiết bị nhà tắm",
+    "icon": null
+  },
+  {
+    "id": 1975,
+    "name": "Thể Thao - Dã Ngoại",
+    "icon": "https://salt.tikicdn.com/ts/category/0b/5e/3d/00941c9eb338ea62a47d5b1e042843d8.png"
+  },
+  {
+    "id": 1984,
+    "name": "Chảo các loại",
+    "icon": null
+  },
+  {
+    "id": 1993,
+    "name": "Bàn ủi, bàn là",
+    "icon": null
+  },
+  {
+    "id": 1994,
+    "name": "Bàn ủi hơi nước",
+    "icon": null
+  },
+  {
+    "id": 2009,
+    "name": "Máy hút bụi",
+    "icon": null
+  },
+  {
+    "id": 2015,
+    "name": "Đèn & thiết bị chiếu sáng",
+    "icon": null
+  },
+  {
+    "id": 2016,
+    "name": "Đèn bàn",
+    "icon": null
+  },
+  {
+    "id": 2023,
+    "name": "Lò nướng điện",
+    "icon": null
+  },
+  {
+    "id": 2024,
+    "name": "Máy xay, máy ép",
+    "icon": null
+  },
+  {
+    "id": 2039,
+    "name": "Hút bụi cầm tay",
+    "icon": null
+  },
+  {
+    "id": 2040,
+    "name": "Lò nướng thùng",
+    "icon": null
+  },
+  {
+    "id": 2044,
+    "name": "Vỉ nướng điện",
+    "icon": null
+  },
+  {
+    "id": 2105,
+    "name": "Máy xay sinh tố",
+    "icon": null
+  },
+  {
+    "id": 2110,
+    "name": "Máy xay thịt",
+    "icon": null
+  },
+  {
+    "id": 2136,
+    "name": "Nồi các loại",
+    "icon": null
+  },
+  {
+    "id": 2146,
+    "name": "Ổ Cứng SSD",
+    "icon": null
+  },
+  {
+    "id": 2157,
+    "name": "Bơi lội",
+    "icon": null
+  },
+  {
+    "id": 2234,
+    "name": "Chổi, cây lau nhà",
+    "icon": null
+  },
+  {
+    "id": 2307,
+    "name": "Máy Massage & Thiết bị chăm sóc sức khỏe",
+    "icon": null
+  },
+  {
+    "id": 2308,
+    "name": "Máy In - Photocopy",
+    "icon": null
+  },
+  {
+    "id": 2328,
+    "name": "Tủ lạnh",
+    "icon": null
+  },
+  {
+    "id": 2340,
+    "name": "Máy massage toàn thân",
+    "icon": null
+  },
+  {
+    "id": 2452,
+    "name": "Máy Tính Điện Tử",
+    "icon": null
+  },
+  {
+    "id": 2511,
+    "name": "Dao các loại",
+    "icon": null
+  },
+  {
+    "id": 2549,
+    "name": "Đồ Chơi - Mẹ &amp; Bé",
+    "icon": "https://salt.tikicdn.com/ts/category/13/64/43/226301adcc7660ffcf44a61bb6df99b7.png"
+  },
+  {
+    "id": 2551,
+    "name": "Tã, Bỉm",
+    "icon": null
+  },
+  {
+    "id": 2552,
+    "name": "Tã dán",
+    "icon": null
+  },
+  {
+    "id": 2553,
+    "name": "Tã quần",
+    "icon": null
+  },
+  {
+    "id": 2600,
+    "name": "Sữa bột cho bé",
+    "icon": null
+  },
+  {
+    "id": 2601,
+    "name": "Sữa cho bé dưới 24 tháng ",
+    "icon": null
+  },
+  {
+    "id": 2602,
+    "name": "Sữa cho bé trên 24 tháng",
+    "icon": null
+  },
+  {
+    "id": 2662,
+    "name": "Pin - Sạc Máy Ảnh, Máy Quay",
+    "icon": null
+  },
+  {
+    "id": 2663,
+    "name": "Thiết Bị Mạng",
+    "icon": null
+  },
+  {
+    "id": 2665,
+    "name": "Màn Hình Máy Tính",
+    "icon": null
+  },
+  {
+    "id": 2678,
+    "name": "Chân Máy Ảnh, Monopod, Tripod",
+    "icon": null
+  },
+  {
+    "id": 2681,
+    "name": "Thẻ Nhớ SD",
+    "icon": null
+  },
+  {
+    "id": 3211,
+    "name": "Xe đạp trẻ em",
+    "icon": null
+  },
+  {
+    "id": 3426,
+    "name": "Sản phẩm trị mụn",
+    "icon": null
+  },
+  {
+    "id": 3803,
+    "name": "Adapter - Củ Sạc",
+    "icon": null
+  },
+  {
+    "id": 4077,
+    "name": "Camera Giám Sát",
+    "icon": null
+  },
+  {
+    "id": 4221,
+    "name": "Điện Tử - Điện Lạnh",
+    "icon": "https://salt.tikicdn.com/ts/category/c8/82/d4/64c561c4ced585c74b9c292208e4995a.png"
+  },
+  {
+    "id": 4239,
+    "name": "Smart Tivi - Android Tivi",
+    "icon": null
+  },
+  {
+    "id": 4293,
+    "name": "Router Wifi",
+    "icon": null
+  },
+  {
+    "id": 4294,
+    "name": "USB Wifi",
+    "icon": null
+  },
+  {
+    "id": 4343,
+    "name": "Bộ Kích Sóng Wifi",
+    "icon": null
+  },
+  {
+    "id": 4384,
+    "name": "Bách Hóa Online",
+    "icon": "https://salt.tikicdn.com/ts/category/40/0f/9b/62a58fd19f540c70fce804e2a9bb5b2d.png"
+  },
+  {
+    "id": 4395,
+    "name": "Nước rửa chén",
+    "icon": null
+  },
+  {
+    "id": 4399,
+    "name": "Vệ sinh nhà bếp",
+    "icon": null
+  },
+  {
+    "id": 4400,
+    "name": "Vệ sinh nhà tắm",
+    "icon": null
+  },
+  {
+    "id": 4423,
+    "name": "Cà phê",
+    "icon": null
+  },
+  {
+    "id": 4425,
+    "name": "Đồ uống không gas khác",
+    "icon": null
+  },
+  {
+    "id": 4426,
+    "name": "Đồ uống có gas",
+    "icon": null
+  },
+  {
+    "id": 4428,
+    "name": "Tai Nghe Có Dây Nhét Tai",
+    "icon": null
+  },
+  {
+    "id": 4532,
+    "name": "Mực In và Toner",
+    "icon": null
+  },
+  {
+    "id": 4554,
+    "name": "Đồ lót nữ",
+    "icon": null
+  },
+  {
+    "id": 4555,
+    "name": "Đồ mặc nhà nam - Bộ ngắn",
+    "icon": null
+  },
+  {
+    "id": 4556,
+    "name": "Quần lót nam",
+    "icon": null
+  },
+  {
+    "id": 4558,
+    "name": "Túi đeo chéo, túi đeo vai nữ",
+    "icon": null
+  },
+  {
+    "id": 4559,
+    "name": "Túi tote nữ",
+    "icon": null
+  },
+  {
+    "id": 4560,
+    "name": "Túi xách tay nữ",
+    "icon": null
+  },
+  {
+    "id": 4561,
+    "name": "Ví nữ",
+    "icon": null
+  },
+  {
+    "id": 4594,
+    "name": "Đồ chơi vận động",
+    "icon": null
+  },
+  {
+    "id": 4642,
+    "name": "Phụ Kiện Thiết Bị Mạng",
+    "icon": null
+  },
+  {
+    "id": 5006,
+    "name": "Dây Cáp Sạc iPhone, iPad",
+    "icon": null
+  },
+  {
+    "id": 5015,
+    "name": "Tivi",
+    "icon": null
+  },
+  {
+    "id": 5121,
+    "name": "Camera IP",
+    "icon": null
+  },
+  {
+    "id": 5246,
+    "name": "Sách tài chính, tiền tệ",
+    "icon": null
+  },
+  {
+    "id": 5250,
+    "name": "Đồ chơi",
+    "icon": null
+  },
+  {
+    "id": 5333,
+    "name": "Áo thun nam ngắn tay có cổ",
+    "icon": null
+  },
+  {
+    "id": 5339,
+    "name": "Dây thắt lưng - Dây nịt",
+    "icon": null
+  },
+  {
+    "id": 5342,
+    "name": "Dép nam",
+    "icon": null
+  },
+  {
+    "id": 5343,
+    "name": "Tất, vớ nam",
+    "icon": null
+  },
+  {
+    "id": 5402,
+    "name": "Khăn choàng - Khăn tay nữ",
+    "icon": null
+  },
+  {
+    "id": 5403,
+    "name": "Khăn - Tất - Vớ nữ",
+    "icon": null
+  },
+  {
+    "id": 5410,
+    "name": "Kính mát nam",
+    "icon": null
+  },
+  {
+    "id": 5451,
+    "name": "Chăm sóc thú cưng",
+    "icon": null
+  },
+  {
+    "id": 5461,
+    "name": "Thức ăn cho mèo",
+    "icon": null
+  },
+  {
+    "id": 5478,
+    "name": "Ngũ cốc, bột",
+    "icon": null
+  },
+  {
+    "id": 5483,
+    "name": "Bia và Nước hoa quả lên men",
+    "icon": null
+  },
+  {
+    "id": 5531,
+    "name": "Tai Nghe Bluetooth Nhét Tai",
+    "icon": null
+  },
+  {
+    "id": 5873,
+    "name": "Sản phẩm thiên nhiên & Khác",
+    "icon": null
+  },
+  {
+    "id": 6000,
+    "name": "Balo và Vali",
+    "icon": "https://salt.tikicdn.com/ts/category/3e/c0/30/1110651bd36a3e0d9b962cf135c818ee.png"
+  },
+  {
+    "id": 6052,
+    "name": "Phụ tùng ô tô",
+    "icon": null
+  },
+  {
+    "id": 6061,
+    "name": "Phụ kiện xe máy",
+    "icon": null
+  },
+  {
+    "id": 6255,
+    "name": "Phần Mềm Máy Tính",
+    "icon": null
+  },
+  {
+    "id": 6280,
+    "name": "Tivi 4K",
+    "icon": null
+  },
+  {
+    "id": 6521,
+    "name": "Balo laptop",
+    "icon": null
+  },
+  {
+    "id": 6525,
+    "name": "Túi chống sốc",
+    "icon": null
+  },
+  {
+    "id": 6526,
+    "name": "Vali, phụ kiện vali ",
+    "icon": null
+  },
+  {
+    "id": 6556,
+    "name": "Máy In Laser",
+    "icon": null
+  },
+  {
+    "id": 6750,
+    "name": "Truyện dài",
+    "icon": null
+  },
+  {
+    "id": 6963,
+    "name": "Bình nước, bình giữ nhiệt & Phụ kiện",
+    "icon": null
+  },
+  {
+    "id": 7082,
+    "name": "Phụ kiện Tivi",
+    "icon": null
+  },
+  {
+    "id": 7083,
+    "name": "Điều khiển từ xa Tivi",
+    "icon": null
+  },
+  {
+    "id": 7084,
+    "name": "Giá treo Tivi",
+    "icon": null
+  },
+  {
+    "id": 7566,
+    "name": "Túi trống",
+    "icon": null
+  },
+  {
+    "id": 7741,
+    "name": "Văn phòng phẩm",
+    "icon": null
+  },
+  {
+    "id": 8060,
+    "name": "Thiết Bị Lưu Trữ",
+    "icon": null
+  },
+  {
+    "id": 8061,
+    "name": "Điện thoại bàn",
+    "icon": null
+  },
+  {
+    "id": 8074,
+    "name": "Phụ kiện điện lạnh",
+    "icon": null
+  },
+  {
+    "id": 8123,
+    "name": "Nồi chiên",
+    "icon": null
+  },
+  {
+    "id": 8142,
+    "name": "Hỗ trợ tình dục",
+    "icon": null
+  },
+  {
+    "id": 8214,
+    "name": "Phụ Kiện Điện Thoại và Máy Tính Bảng",
+    "icon": null
+  },
+  {
+    "id": 8215,
+    "name": "Thiết Bị Âm Thanh và Phụ Kiện",
+    "icon": null
+  },
+  {
+    "id": 8222,
+    "name": "Dầu gội, dầu xả",
+    "icon": null
+  },
+  {
+    "id": 8223,
+    "name": "Bộ dầu gội, xả",
+    "icon": null
+  },
+  {
+    "id": 8273,
+    "name": "Sữa nước",
+    "icon": null
+  },
+  {
+    "id": 8313,
+    "name": "Đồ dùng phòng ngủ",
+    "icon": null
+  },
+  {
+    "id": 8314,
+    "name": "Phụ kiện phòng ngủ",
+    "icon": null
+  },
+  {
+    "id": 8319,
+    "name": "Dao, kéo và phụ kiện",
+    "icon": null
+  },
+  {
+    "id": 8322,
+    "name": "Nhà Sách Tiki",
+    "icon": "https://salt.tikicdn.com/ts/category/ed/20/60/afa9b3b474bf7ad70f10dd6443211d5f.png"
+  },
+  {
+    "id": 8338,
+    "name": "Phụ kiện giày nam",
+    "icon": null
+  },
+  {
+    "id": 8339,
+    "name": "Dinh dưỡng cho bé",
+    "icon": null
+  },
+  {
+    "id": 8342,
+    "name": "Găng tay nam",
+    "icon": null
+  },
+  {
+    "id": 8345,
+    "name": "Đồ lót tạo dáng",
+    "icon": null
+  },
+  {
+    "id": 8346,
+    "name": "Đồ ngủ nữ",
+    "icon": null
+  },
+  {
+    "id": 8352,
+    "name": "Phụ kiện túi",
+    "icon": null
+  },
+  {
+    "id": 8357,
+    "name": "Phụ kiện giày",
+    "icon": null
+  },
+  {
+    "id": 8361,
+    "name": "Phụ kiện tóc nữ",
+    "icon": null
+  },
+  {
+    "id": 8368,
+    "name": "Găng tay - Bao tay nữ",
+    "icon": null
+  },
+  {
+    "id": 8370,
+    "name": "Mắt kính",
+    "icon": null
+  },
+  {
+    "id": 8371,
+    "name": "Đồng hồ và Trang sức",
+    "icon": "https://salt.tikicdn.com/ts/category/8b/d4/a8/5924758b5c36f3b1c43b6843f52d6dd2.png"
+  },
+  {
+    "id": 8374,
+    "name": "Trang sức",
+    "icon": null
+  },
+  {
+    "id": 8387,
+    "name": "Túi du lịch và phụ kiện",
+    "icon": null
+  },
+  {
+    "id": 8390,
+    "name": "Phụ kiện vali",
+    "icon": null
+  },
+  {
+    "id": 8400,
+    "name": "Tai Nghe True Wireless",
+    "icon": null
+  },
+  {
+    "id": 8411,
+    "name": "Các môn thể thao chơi vợt",
+    "icon": null
+  },
+  {
+    "id": 8413,
+    "name": "Thể thao dưới nước",
+    "icon": null
+  },
+  {
+    "id": 8428,
+    "name": "Đồ dùng dã ngoại",
+    "icon": null
+  },
+  {
+    "id": 8438,
+    "name": "Cầu lông",
+    "icon": null
+  },
+  {
+    "id": 8513,
+    "name": "Đồng hồ thể thao nam",
+    "icon": null
+  },
+  {
+    "id": 8594,
+    "name": "Ô Tô - Xe Máy - Xe Đạp",
+    "icon": "https://salt.tikicdn.com/ts/category/69/f5/36/c6cd9e2849854630ed74ff1678db8f19.png"
+  },
+  {
+    "id": 8597,
+    "name": "Xe máy",
+    "icon": null
+  },
+  {
+    "id": 8602,
+    "name": "Tinh dầu",
+    "icon": null
+  },
+  {
+    "id": 10238,
+    "name": "Bộ sản phẩm vệ sinh nhà cửa",
+    "icon": null
+  },
+  {
+    "id": 10378,
+    "name": "Áo thun nam ba lỗ",
+    "icon": null
+  },
+  {
+    "id": 10384,
+    "name": "Dép nam quai ngang",
+    "icon": null
+  },
+  {
+    "id": 10414,
+    "name": "Miếng lót sơ sinh",
+    "icon": null
+  },
+  {
+    "id": 10418,
+    "name": "Dinh dưỡng cho người lớn",
+    "icon": null
+  },
+  {
+    "id": 11312,
+    "name": "Voucher - Dịch vụ",
+    "icon": "https://salt.tikicdn.com/ts/category/0a/c9/7b/8e466bdf6d4a5f5e14665ce56e58631d.png"
+  },
+  {
+    "id": 11332,
+    "name": "Khóa học",
+    "icon": null
+  },
+  {
+    "id": 11334,
+    "name": "Dịch vụ khác",
+    "icon": null
+  },
+  {
+    "id": 11375,
+    "name": "Đồng hồ trẻ em",
+    "icon": null
+  },
+  {
+    "id": 11605,
+    "name": "Tẩy trang",
+    "icon": null
+  },
+  {
+    "id": 11843,
+    "name": "Phụ kiện kính",
+    "icon": null
+  },
+  {
+    "id": 11878,
+    "name": "Xe tay ga",
+    "icon": null
+  },
+  {
+    "id": 11904,
+    "name": "Phụ kiện - Đồ nghề xe đạp",
+    "icon": null
+  },
+  {
+    "id": 11906,
+    "name": "Mũ bảo hiểm",
+    "icon": null
+  },
+  {
+    "id": 11908,
+    "name": "Mũ bảo hiểm xe máy",
+    "icon": null
+  },
+  {
+    "id": 12218,
+    "name": "Băng cổ tay, băng trán thể thao",
+    "icon": null
+  },
+  {
+    "id": 12884,
+    "name": "Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi",
+    "icon": null
+  },
+  {
+    "id": 12908,
+    "name": "Adapter Sạc - Củ Sạc Thường",
+    "icon": null
+  },
+  {
+    "id": 13150,
+    "name": "Thiết Bị Phát Sóng Wifi",
+    "icon": null
+  },
+  {
+    "id": 13224,
+    "name": "Phụ kiện máy hút bụi",
+    "icon": null
+  },
+  {
+    "id": 13384,
+    "name": "Khóa học ngoại ngữ",
+    "icon": null
+  },
+  {
+    "id": 13744,
+    "name": "Phiếu quà tặng",
+    "icon": null
+  },
+  {
+    "id": 15076,
+    "name": "Đồ uống không gas",
+    "icon": null
+  },
+  {
+    "id": 15078,
+    "name": "Chăm sóc nhà cửa",
+    "icon": null
+  },
+  {
+    "id": 15318,
+    "name": "Vòng tay",
+    "icon": null
+  },
+  {
+    "id": 15320,
+    "name": "Bông tai",
+    "icon": null
+  },
+  {
+    "id": 15936,
+    "name": "Bộ trang sức",
+    "icon": null
+  },
+  {
+    "id": 17166,
+    "name": "Cross Border - Hàng Quốc Tế",
+    "icon": "https://salt.tikicdn.com/ts/category/3c/e4/99/eeee1801c838468d94af9997ec2bbe42.png"
+  },
+  {
+    "id": 17170,
+    "name": "Kem và sữa dưỡng da",
+    "icon": null
+  },
+  {
+    "id": 20182,
+    "name": "Bộ Chuyển Đổi Không Dây",
+    "icon": null
+  },
+  {
+    "id": 20260,
+    "name": "Dụng Cụ Vệ Sinh Máy Ảnh",
+    "icon": null
+  },
+  {
+    "id": 20824,
+    "name": "Điện gia dụng",
+    "icon": null
+  },
+  {
+    "id": 20862,
+    "name": "Thiết bị gia đình",
+    "icon": null
+  },
+  {
+    "id": 20886,
+    "name": "Quạt điện",
+    "icon": null
+  },
+  {
+    "id": 21074,
+    "name": "Laptop & Máy Vi Tính",
+    "icon": null
+  },
+  {
+    "id": 21132,
+    "name": "Thiết bị mạng",
+    "icon": null
+  },
+  {
+    "id": 21268,
+    "name": "Nhà Cửa - Đời Sống",
+    "icon": null
+  },
+  {
+    "id": 21272,
+    "name": "Đèn & thiết bị chiếu sáng",
+    "icon": null
+  },
+  {
+    "id": 21280,
+    "name": "Ngoài trời & sân vườn",
+    "icon": null
+  },
+  {
+    "id": 21298,
+    "name": "Sách, Văn phòng phẩm & Quà lưu niệm",
+    "icon": null
+  },
+  {
+    "id": 21300,
+    "name": "English Books",
+    "icon": null
+  },
+  {
+    "id": 21306,
+    "name": "Business & Economics",
+    "icon": null
+  },
+  {
+    "id": 21316,
+    "name": "Fiction - Literature",
+    "icon": null
+  },
+  {
+    "id": 21346,
+    "name": "Ô tô, xe máy, xe đạp",
+    "icon": null
+  },
+  {
+    "id": 21350,
+    "name": "Phụ kiện xe máy",
+    "icon": null
+  },
+  {
+    "id": 21382,
+    "name": "Thiết Bị Số - Phụ Kiện Số",
+    "icon": null
+  },
+  {
+    "id": 21384,
+    "name": "Bao da - Ốp lưng",
+    "icon": null
+  },
+  {
+    "id": 21388,
+    "name": "Adapter - Củ sạc",
+    "icon": null
+  },
+  {
+    "id": 21422,
+    "name": "Thiết bị thông minh",
+    "icon": null
+  },
+  {
+    "id": 21432,
+    "name": "Thiết bị nhà thông minh",
+    "icon": null
+  },
+  {
+    "id": 21496,
+    "name": "Tivi & Thiết Bị Nghe Nhìn",
+    "icon": null
+  },
+  {
+    "id": 21514,
+    "name": "Tivi box, Smart box",
+    "icon": null
+  },
+  {
+    "id": 22998,
+    "name": "Đồ uống - Pha chế dạng bột",
+    "icon": null
+  },
+  {
+    "id": 23126,
+    "name": "Xửng hấp",
+    "icon": null
+  },
+  {
+    "id": 23392,
+    "name": "Chiếu",
+    "icon": null
+  },
+  {
+    "id": 23808,
+    "name": "Bếp điện từ đơn",
+    "icon": null
+  },
+  {
+    "id": 23832,
+    "name": "Dụng cụ lau nhà khác",
+    "icon": null
+  },
+  {
+    "id": 23902,
+    "name": "Phụ kiện cầu lông",
+    "icon": null
+  },
+  {
+    "id": 24024,
+    "name": "Đồ Uống Không Cồn",
+    "icon": null
+  },
+  {
+    "id": 24062,
+    "name": "Máy xay sinh tố gia đình",
+    "icon": null
+  },
+  {
+    "id": 24128,
+    "name": "Dụng cụ - thiết bị tập thể thao",
+    "icon": null
+  },
+  {
+    "id": 24152,
+    "name": "Dây nhảy",
+    "icon": null
+  },
+  {
+    "id": 24164,
+    "name": "Dây đàn hồi tập gym",
+    "icon": null
+  },
+  {
+    "id": 24166,
+    "name": "Dụng cụ tập cơ tay",
+    "icon": null
+  },
+  {
+    "id": 24280,
+    "name": "Túi ngủ",
+    "icon": null
+  },
+  {
+    "id": 24306,
+    "name": "Phụ kiện thể thao",
+    "icon": null
+  },
+  {
+    "id": 24310,
+    "name": "Đai chạy bộ",
+    "icon": null
+  },
+  {
+    "id": 24316,
+    "name": "Găng tay tập gym",
+    "icon": null
+  },
+  {
+    "id": 24318,
+    "name": "Phụ kiện thể thao khác",
+    "icon": null
+  },
+  {
+    "id": 24320,
+    "name": "Kính bơi",
+    "icon": null
+  },
+  {
+    "id": 24344,
+    "name": "Dụng cụ, thiết bị sửa ô tô",
+    "icon": null
+  },
+  {
+    "id": 24352,
+    "name": "Gạt mưa ô tô",
+    "icon": null
+  },
+  {
+    "id": 24358,
+    "name": "Nước hoa, sáp thơm ô tô",
+    "icon": null
+  },
+  {
+    "id": 24362,
+    "name": "Chăm sóc ô tô",
+    "icon": null
+  },
+  {
+    "id": 24832,
+    "name": "Phụ kiện - Chăm sóc xe",
+    "icon": null
+  },
+  {
+    "id": 25000,
+    "name": "Thiết bị nhà cửa khác",
+    "icon": null
+  },
+  {
+    "id": 25046,
+    "name": "Maternal & Parenting",
+    "icon": null
+  },
+  {
+    "id": 26568,
+    "name": "Âm thanh & Phụ kiện Tivi",
+    "icon": null
+  },
+  {
+    "id": 26642,
+    "name": "Anten Tivi",
+    "icon": null
+  },
+  {
+    "id": 27498,
+    "name": "Phụ kiện thời trang",
+    "icon": "https://salt.tikicdn.com/ts/category/ca/53/64/49c6189a0e1c1bf7cb91b01ff6d3fe43.png"
+  },
+  {
+    "id": 27542,
+    "name": "Phụ kiện đồng hồ",
+    "icon": null
+  },
+  {
+    "id": 27544,
+    "name": "Đồng hồ bé trai",
+    "icon": null
+  },
+  {
+    "id": 27548,
+    "name": "Đồ lót nam",
+    "icon": null
+  },
+  {
+    "id": 27550,
+    "name": "Phụ kiện thời trang nam",
+    "icon": null
+  },
+  {
+    "id": 27562,
+    "name": "Quần nam",
+    "icon": null
+  },
+  {
+    "id": 27570,
+    "name": "Đồ ngủ, đồ mặc nhà nam",
+    "icon": null
+  },
+  {
+    "id": 27572,
+    "name": "Giày thể thao nam",
+    "icon": null
+  },
+  {
+    "id": 27604,
+    "name": "Giày thể thao nữ",
+    "icon": null
+  },
+  {
+    "id": 27608,
+    "name": "Balo",
+    "icon": null
+  },
+  {
+    "id": 27612,
+    "name": "Balo, cặp, túi chống sốc laptop",
+    "icon": null
+  },
+  {
+    "id": 27616,
+    "name": "Túi thời trang nam",
+    "icon": "https://salt.tikicdn.com/ts/category/9b/31/af/669e6a133118e5439d6c175e27c1f963.png"
+  },
+  {
+    "id": 28448,
+    "name": "Thẻ Nhớ và Bộ Nhớ Mở Rộng",
+    "icon": null
+  },
+  {
+    "id": 28460,
+    "name": "Bộ Adapter Sạc Kèm Cáp Sạc",
+    "icon": null
+  },
+  {
+    "id": 28484,
+    "name": "Miếng Dán Màn Hình Điện Thoại",
+    "icon": null
+  },
+  {
+    "id": 28574,
+    "name": "Bao Da - Ốp Lưng Điện Thoại iPhone",
+    "icon": null
+  },
+  {
+    "id": 28670,
+    "name": "Phụ kiện máy tính và Laptop",
+    "icon": null
+  },
+  {
+    "id": 28690,
+    "name": "Phụ Kiện Phím Chuột Văn Phòng",
+    "icon": null
+  },
+  {
+    "id": 28766,
+    "name": "Túi Hút Ẩm Cho Máy Ảnh, Máy Quay",
+    "icon": null
+  },
+  {
+    "id": 28780,
+    "name": "Dây Đeo Máy Ảnh, Máy Quay, Ống Nhòm",
+    "icon": null
+  },
+  {
+    "id": 28834,
+    "name": "Camera Hành Trình - Action Camera và Phụ Kiện",
+    "icon": null
+  },
+  {
+    "id": 28836,
+    "name": "Phụ Kiện Camera Hành Trình",
+    "icon": null
+  },
+  {
+    "id": 28840,
+    "name": "Ổ Cứng SSD Di Động",
+    "icon": null
+  },
+  {
+    "id": 28842,
+    "name": "Ổ Cứng HDD Di Động",
+    "icon": null
+  },
+  {
+    "id": 28844,
+    "name": "Ổ Cứng Gắn Trong",
+    "icon": null
+  },
+  {
+    "id": 28856,
+    "name": "Máy đọc sách",
+    "icon": null
+  },
+  {
+    "id": 28886,
+    "name": "Phụ kiện, linh kiện máy lạnh",
+    "icon": null
+  },
+  {
+    "id": 28892,
+    "name": "Phụ kiện, linh kiện điện lạnh khác",
+    "icon": null
+  },
+  {
+    "id": 28932,
+    "name": "Màn Hình Phổ Thông",
+    "icon": null
+  },
+  {
+    "id": 28944,
+    "name": "Drums và Toner Cho Máy In Laser",
+    "icon": null
+  },
+  {
+    "id": 30374,
+    "name": "Thiết Bị Âm Thanh",
+    "icon": null
+  },
+  {
+    "id": 37598,
+    "name": "Phiếu mua xe máy",
+    "icon": null
+  },
+  {
+    "id": 44792,
+    "name": "Điện Thoại - Máy Tính Bảng",
+    "icon": "https://salt.tikicdn.com/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png"
+  },
+  {
+    "id": 44824,
+    "name": "Trái Cây",
+    "icon": null
+  },
+  {
+    "id": 44826,
+    "name": "Trái Cây Nội Địa",
+    "icon": null
+  },
+  {
+    "id": 44828,
+    "name": "Trái Cây Nhập Khẩu",
+    "icon": null
+  },
+  {
+    "id": 45472,
+    "name": "Bạt trùm xe",
+    "icon": null
+  },
+  {
+    "id": 45528,
+    "name": "Đèn xe đạp",
+    "icon": null
+  },
+  {
+    "id": 45530,
+    "name": "Bơm xe đạp",
+    "icon": null
+  },
+  {
+    "id": 45538,
+    "name": "Phụ tùng - Phụ kiện xe đạp khác",
+    "icon": null
+  },
+  {
+    "id": 45598,
+    "name": "Keo - Băng keo chuyên dụng",
+    "icon": null
+  },
+  {
+    "id": 45604,
+    "name": "Nước rửa xe, rửa kính",
+    "icon": null
+  },
+  {
+    "id": 46190,
+    "name": "Mũ 1/2",
+    "icon": null
+  },
+  {
+    "id": 49362,
+    "name": "Áo liền quần",
+    "icon": null
+  },
+  {
+    "id": 49364,
+    "name": "Bộ trang phục",
+    "icon": null
+  },
+  {
+    "id": 49412,
+    "name": "Áo nâng ngực",
+    "icon": null
+  },
+  {
+    "id": 49418,
+    "name": "Áo không đệm - Bralette",
+    "icon": null
+  },
+  {
+    "id": 49422,
+    "name": "Quần ôm",
+    "icon": null
+  },
+  {
+    "id": 49432,
+    "name": "Đồ mặc nhà",
+    "icon": null
+  },
+  {
+    "id": 49434,
+    "name": "Đồ bộ ngắn",
+    "icon": null
+  },
+  {
+    "id": 49438,
+    "name": "Đồ bộ dài",
+    "icon": null
+  },
+  {
+    "id": 49502,
+    "name": "Quần thun nam",
+    "icon": null
+  },
+  {
+    "id": 49504,
+    "name": "Quần thun nam ngắn",
+    "icon": null
+  },
+  {
+    "id": 49552,
+    "name": "Giày thể thao cổ thấp",
+    "icon": null
+  },
+  {
+    "id": 49578,
+    "name": "Dép quai ngang",
+    "icon": null
+  },
+  {
+    "id": 49580,
+    "name": "Dép đi trong nhà",
+    "icon": null
+  },
+  {
+    "id": 49590,
+    "name": "Miếng lót giày",
+    "icon": null
+  },
+  {
+    "id": 49592,
+    "name": "Vệ sinh giày",
+    "icon": null
+  },
+  {
+    "id": 49594,
+    "name": "Phụ kiện cho giày",
+    "icon": null
+  },
+  {
+    "id": 49596,
+    "name": "Túi đeo chéo công sở",
+    "icon": null
+  },
+  {
+    "id": 49598,
+    "name": "Túi đeo chéo dạo phố",
+    "icon": null
+  },
+  {
+    "id": 49602,
+    "name": "Túi xách vừa và nhỏ",
+    "icon": null
+  },
+  {
+    "id": 49604,
+    "name": "Ví ngắn",
+    "icon": null
+  },
+  {
+    "id": 49606,
+    "name": "Ví dài",
+    "icon": null
+  },
+  {
+    "id": 49608,
+    "name": "Túi tote có khóa",
+    "icon": null
+  },
+  {
+    "id": 49610,
+    "name": "Túi tote không khóa",
+    "icon": null
+  },
+  {
+    "id": 49618,
+    "name": "Phụ kiện cài túi",
+    "icon": null
+  },
+  {
+    "id": 49620,
+    "name": "Giày thể thao nam cổ thấp",
+    "icon": null
+  },
+  {
+    "id": 49644,
+    "name": "Vệ sinh giày",
+    "icon": null
+  },
+  {
+    "id": 49646,
+    "name": "Miếng lót giày nam",
+    "icon": null
+  },
+  {
+    "id": 49648,
+    "name": "Phụ kiện cho giày nam",
+    "icon": null
+  },
+  {
+    "id": 49652,
+    "name": "Ví nam ngang",
+    "icon": null
+  },
+  {
+    "id": 49654,
+    "name": "Ví nam đứng",
+    "icon": null
+  },
+  {
+    "id": 49656,
+    "name": "Vali nhựa",
+    "icon": null
+  },
+  {
+    "id": 49660,
+    "name": "Vali trẻ em",
+    "icon": null
+  },
+  {
+    "id": 49672,
+    "name": "Vớ ngắn nữ",
+    "icon": null
+  },
+  {
+    "id": 49676,
+    "name": "Khẩu trang nữ",
+    "icon": null
+  },
+  {
+    "id": 49678,
+    "name": "Cột tóc",
+    "icon": null
+  },
+  {
+    "id": 49680,
+    "name": "Cài tóc",
+    "icon": null
+  },
+  {
+    "id": 49682,
+    "name": "Băng đô",
+    "icon": null
+  },
+  {
+    "id": 49688,
+    "name": "Phụ kiện tóc khác",
+    "icon": null
+  },
+  {
+    "id": 49702,
+    "name": "Găng tay và váy chống nắng",
+    "icon": null
+  },
+  {
+    "id": 49716,
+    "name": "Vớ cổ ngắn nam",
+    "icon": null
+  },
+  {
+    "id": 49722,
+    "name": "Dây đồng hồ",
+    "icon": null
+  },
+  {
+    "id": 49728,
+    "name": "Pin đồng hồ",
+    "icon": null
+  },
+  {
+    "id": 52180,
+    "name": "Phụ kiện thay thế",
+    "icon": null
+  },
+  {
+    "id": 53046,
+    "name": "Dụng cụ lau nhà",
+    "icon": null
+  },
+  {
+    "id": 53052,
+    "name": "Nồi và chảo",
+    "icon": null
+  },
+  {
+    "id": 53530,
+    "name": "Thức ăn thú cưng",
+    "icon": null
+  },
+  {
+    "id": 53562,
+    "name": "Sữa và các Sản phẩm từ sữa",
+    "icon": null
+  },
+  {
+    "id": 53564,
+    "name": "Sữa tiệt trùng (UHT)",
+    "icon": null
+  },
+  {
+    "id": 53566,
+    "name": "Sữa Chua Uống & Ăn",
+    "icon": null
+  },
+  {
+    "id": 53572,
+    "name": "Các Sản Phẩm Từ Sữa Khác",
+    "icon": null
+  },
+  {
+    "id": 53582,
+    "name": "Đồ uống có cồn",
+    "icon": null
+  },
+  {
+    "id": 53584,
+    "name": "Bia Nội Địa",
+    "icon": null
+  },
+  {
+    "id": 53606,
+    "name": "Nước Ngọt",
+    "icon": null
+  },
+  {
+    "id": 53726,
+    "name": "Bảo hiểm xe máy",
+    "icon": null
+  },
+  {
+    "id": 54042,
+    "name": "Sản phẩm Tài chính - Bảo hiểm",
+    "icon": "https://salt.tikicdn.com/ts/category/a0/49/f4/a75f6e5dc021b0005fb8923b9846abc2.jpg"
+  },
+  {
+    "id": 54044,
+    "name": "Bảo hiểm",
+    "icon": null
+  },
+  {
+    "id": 54046,
+    "name": "Bảo hiểm Sức khỏe",
+    "icon": null
+  },
+  {
+    "id": 54276,
+    "name": "Thịt, Trứng",
+    "icon": null
+  },
+  {
+    "id": 54278,
+    "name": "Thịt heo, lợn",
+    "icon": null
+  },
+  {
+    "id": 54282,
+    "name": "Thịt gà, vịt, chim",
+    "icon": null
+  },
+  {
+    "id": 54284,
+    "name": "Thịt đông lạnh",
+    "icon": null
+  },
+  {
+    "id": 54290,
+    "name": "Cá, thuỷ hải sản",
+    "icon": null
+  },
+  {
+    "id": 54294,
+    "name": "Cá, hải sản đông lạnh",
+    "icon": null
+  },
+  {
+    "id": 54302,
+    "name": "Rau củ quả",
+    "icon": null
+  },
+  {
+    "id": 54304,
+    "name": "Rau xanh, rau tươi",
+    "icon": null
+  },
+  {
+    "id": 54306,
+    "name": "Củ, quả, măng tươi",
+    "icon": null
+  },
+  {
+    "id": 54308,
+    "name": "Hành, tỏi, ớt, rau thơm",
+    "icon": null
+  },
+  {
+    "id": 54344,
+    "name": "Đông lạnh, mát",
+    "icon": null
+  },
+  {
+    "id": 54348,
+    "name": "Rau củ quả đông lạnh",
+    "icon": null
+  },
+  {
+    "id": 54774,
+    "name": "Bảo hiểm ô tô",
+    "icon": null
+  }
+]
 }

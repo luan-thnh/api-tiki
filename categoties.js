@@ -1,4 +1,5 @@
 const fs = require('fs');
+
 const fetchCategoriesAndProducts = async () => {
   const categoriesUrl = 'https://api-tiki.vercel.app/categories';
   const productsUrl = 'https://api-tiki.vercel.app/products';
@@ -8,9 +9,16 @@ const fetchCategoriesAndProducts = async () => {
     const categoriesResponse = await fetch(categoriesUrl);
     const categoriesData = await categoriesResponse.json();
 
-    // Create a category map for quick lookups
+    // Create a category map, skip id = 0
     const categoryMap = categoriesData.reduce((map, category) => {
-      map[category.id] = { id: parseInt(category.id), name: category.name, icon: category.icon || null };
+      const id = parseInt(category.id);
+      if (id !== 0) {
+        map[id] = {
+          id,
+          name: category.name,
+          icon: category.icon || null,
+        };
+      }
       return map;
     }, {});
 
@@ -18,28 +26,30 @@ const fetchCategoriesAndProducts = async () => {
     const productsResponse = await fetch(productsUrl);
     const productsData = await productsResponse.json();
 
-    // Extract unique categories from products
+    // Extract unique categories from product breadcrumbs
     productsData.forEach((product) => {
       product.breadcrumbs.forEach((breadcrumb) => {
-        if (!categoryMap[breadcrumb.category_id]) {
-          categoryMap[breadcrumb.category_id] = {
-            id: parseInt(breadcrumb.category_id),
+        const catId = parseInt(breadcrumb.category_id);
+        if (catId !== 0 && !categoryMap[catId]) {
+          categoryMap[catId] = {
+            id: catId,
             name: breadcrumb.name,
-            icon: null, // Icon is unavailable in breadcrumbs
+            icon: null, // No icon in breadcrumbs
           };
         }
       });
     });
 
-    // Convert category map back to an array
+    // Convert category map to array
     const uniqueCategories = Object.values(categoryMap);
 
-    console.log(uniqueCategories);
+    // Save to file
+    fs.writeFileSync('categories.json', JSON.stringify(uniqueCategories, null, 2));
 
-    fs.writeFileSync('categories.json', JSON.stringify(uniqueCategories));
+    console.log('✅ Đã ghi categories.json thành công. Số lượng:', uniqueCategories.length);
     return uniqueCategories;
   } catch (error) {
-    console.error('Error fetching data:', error);
+    console.error('❌ Lỗi khi fetch hoặc ghi file:', error);
   }
 };
 
